@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jewlarbi1234
+- 👋 Hi, I’m @mrr.jew
 - 👀 I’m interested in hacking and programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on cybersecurity
+- 🌱 I’m currently learning backend development
+- 💞️ I’m looking to collaborate on software engineering projects
 - 📫 How to reach me . You can reach me on instagram at mrr.jew
 
 <!---
